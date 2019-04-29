@@ -1,6 +1,6 @@
 FROM node:8-jessie-slim
 
-ENV TZ=Europe/Bratislava
+ENV TZ=America/Argentina/Buenos_Aires
 ENV UID=10000
 ENV GID=1002
 
